@@ -39,3 +39,9 @@ It applies **EDA (Exploratory Data Analysis)**, **feature engineering**, and bot
    ```bash
    git clone https://github.com/your-username/customer-churn-prediction.git
    cd customer-churn-prediction
+## 🔹Install requirements
+pip install -r requirements.txt
+
+## 🔹 Open the Jupyter notebook
+jupyter notebook customer_churn.ipynb
+
